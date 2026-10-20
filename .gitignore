@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+# Archivos temporales de Quarto
+.quarto/project-cache/
+.quarto/quarto-session-temp*/
